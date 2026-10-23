@@ -1,0 +1,5 @@
+name: PlayerHeadDrop
+version: '1.0.0'
+main: id.server.playerheaddrop.PlayerHeadDrop
+api-version: '1.21'
+description: Drops player heads when killed by another player.
